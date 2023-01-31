@@ -1,0 +1,44 @@
+.main-div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0 50px;
+  justify-content: center;
+  align-items: center;
+}
+.input-information-container {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.input-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.information-price {
+  width: 50%;
+  text-align: center;
+}
+.input-field {
+  margin: 5px 0;
+}
+.parcel-information-div {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  padding-top: 25px;
+  align-items: center;
+  justify-content: space-around;
+}
+.print-information {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  text-align: justify;
+}
+.button-div {
+  width: 25%;
+}
